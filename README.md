@@ -307,7 +307,7 @@ Comments
 
 ### Checkpoint 1 GIF
 
-<img src="https://github.com/CodepathGroupFall2022/PathFinder/blob/main/Checkpoint1.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/Checkpoint1.gif" width=250><br>
 
 ### Checkpoint 2 GIF
 
