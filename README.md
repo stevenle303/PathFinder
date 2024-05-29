@@ -319,5 +319,5 @@ Comments
 
 ### Final Checkpoint GIF
 
-<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/FinalCheckpoint.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/finalCheckpoint.gif" width=250><br>
 
