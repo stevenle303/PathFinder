@@ -1,6 +1,3 @@
-Unit 8: Group Milestone - README
-===
-
 # PathFinder
 
 ## Table of Contents
