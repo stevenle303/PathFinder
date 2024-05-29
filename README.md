@@ -311,7 +311,7 @@ Comments
 
 ### Checkpoint 2 GIF
 
-<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/Checkpoint2.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/CheckPoint2.gif" width=250><br>
 
 ### Checkpoint 3 GIF
 
