@@ -311,13 +311,13 @@ Comments
 
 ### Checkpoint 2 GIF
 
-<img src="https://github.com/CodepathGroupFall2022/PathFinder/blob/main/CheckPoint2.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/Checkpoint2.gif" width=250><br>
 
 ### Checkpoint 3 GIF
 
-<img src="https://github.com/CodepathGroupFall2022/PathFinder/blob/main/Checkpoint3.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/Checkpoint3.gif" width=250><br>
 
 ### Final Checkpoint GIF
 
-<img src="https://github.com/CodepathGroupFall2022/PathFinder/blob/main/finalCheckpoint.gif" width=250><br>
+<img src="https://github.com/stevenle303/PathFinder/blob/main/PathFinderGifs/FinalCheckpoint.gif" width=250><br>
 
